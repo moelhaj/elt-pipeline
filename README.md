@@ -1,1 +1,0 @@
-# elt-data-warehouses-pipeline
